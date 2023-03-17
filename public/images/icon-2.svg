@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:#207fe1}.cls-1{stroke:#707070}.cls-2{clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_45" d="M0 0h80v80H0z" class="cls-1" data-name="Rectangle 45" transform="translate(637 938)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_4" class="cls-2" data-name="Mask Group 4" transform="translate(-637 -938)">
+        <g id="_001-file" data-name="001-file" transform="translate(637 938)">
+            <path id="Path_394" d="M60 33.333H26.667a1.333 1.333 0 1 0 0 2.667H60a1.333 1.333 0 1 0 0-2.667z" class="cls-3" data-name="Path 394"/>
+            <path id="Path_395" d="M26.667 25.333H40a1.333 1.333 0 1 0 0-2.667H26.667a1.333 1.333 0 1 0 0 2.667z" class="cls-3" data-name="Path 395"/>
+            <path id="Path_396" d="M60 44H26.667a1.333 1.333 0 1 0 0 2.667H60A1.333 1.333 0 1 0 60 44z" class="cls-3" data-name="Path 396"/>
+            <path id="Path_397" d="M60 54.667H26.667a1.333 1.333 0 1 0 0 2.667H60a1.333 1.333 0 1 0 0-2.667z" class="cls-3" data-name="Path 397"/>
+            <path id="Path_398" d="M60 65.333H26.667a1.333 1.333 0 1 0 0 2.667H60a1.333 1.333 0 1 0 0-2.667z" class="cls-3" data-name="Path 398"/>
+            <path id="Path_399" d="M65.333 19.448V0H8v73.333h6.667V80H72V26.115zm-12-8.229l12 12 2.115 2.115H53.333zM10.667 70.667v-68h52v14.114L52.552 6.667H14.667v64zm6.667 6.667v-68h33.333V28h18.666v49.333z" class="cls-3" data-name="Path 399"/>
+        </g>
+    </g>
+</svg>

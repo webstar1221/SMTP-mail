@@ -1,0 +1,347 @@
+
+/*Responsive css*/
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+}
+
+@media (max-width: 1380px) {
+.hero-sec {
+	padding: 236px 0 370px 0;
+}
+}
+
+@media (max-width: 1199px) {
+.hero-sec {
+	padding: 178px 0 352px 0;
+}
+.suport-btn {
+	text-align: left;
+}
+.support-sec .my-btn {
+	margin: 0 3px;
+}
+.suport-txt {
+	padding-left: 58px;
+}
+.slide-pic {
+	max-width: 75%;
+}
+.faq-pag .hero-sec {
+	padding: 144px 0 132px;
+}
+.privacy-page .hero-sec {
+	padding: 144px 0 132px;
+}
+.header-accordian a {
+	font-size: 13px;
+}
+.header-accordian a i {
+	width: 16px;
+	height: 16px;
+	line-height: 16.4px;
+	font-size: 10px;
+}
+}
+
+@media (max-width: 991px) {
+.navbar-light .navbar-toggler {
+	color: #fff;
+	border-color: #fff;
+	background-color: #fff;
+}
+.navbar-light .navbar-toggler:focus {
+	outline: none;
+}
+.navbar-collapse {
+	width: 100%;
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+	left: 0;
+	background-color: #fff;
+	text-align: center;
+	z-index: 999999999;
+	position: absolute;
+	top: 57px;
+}
+a.nav-link.nav-a {
+	color: #207fe1 !important;
+}
+#header .btn {
+	background-color: #207fe1;
+	margin-bottom: 10px;
+}
+.nav-li {
+	margin: 10px 0px;
+}
+.heading {
+	margin-bottom: 38px;
+}
+.how-sec .text-hold h3 {
+	font-size: 18px;
+	padding-bottom: 14px;
+}
+.how-sec .text-hold a {
+	font-size: 18px;
+}
+.how-sec {
+	padding: 48px 0;
+}
+.commen-sec h5 {
+	font-size: 18px;
+}
+.suport-txt {
+	padding-left: 28px;
+}
+.support-sec .my-btn {
+	font-size: 16px;
+	width: 163px;
+}
+.hero-sec {
+	padding: 118px 0 62px 0;
+}
+.carousel-control-prev {
+	left: -38px;
+	top: 98px;
+	height: 15%;
+}
+.carousel-control-next {
+	top: 98px;
+	right: -38px;
+	height: 15%;
+}
+.email-itm li {
+	padding-left: 30px;
+}
+.email-itm li:before {
+	left: 15px;
+}
+}
+
+@media (max-width: 767px) {
+.hero-sec {
+	padding: 116px 0 129px 0;
+}
+.how-sec .main-brand {
+	margin: 0 auto 20px;
+}
+.how-sec {
+	padding: 24px 0;
+}
+.proxy-sec h4 {
+	font-size: 23px;
+	line-height: 37px;
+	margin-bottom: 20px;
+}
+.proxy-sec h4 br {
+	display: none;
+}
+.commen-sec h2 {
+	font-size: 21px;
+	line-height: 35px;
+	margin-bottom: 38px;
+}
+.top-web .col-md-4, .botm-web .col-md-4 {
+	margin-bottom: 20px;
+}
+.top-web {
+	margin-bottom: 7px;
+}
+.botm-web {
+	margin-bottom: 5px;
+}
+.support-sec {
+	background-color: #207fe1;
+	background-image: inherit;
+	padding: 48px 0 42px 0px;
+	text-align: center;
+}
+.suport-txt {
+	padding-left: 0px;
+}
+.suport-btn {
+	text-align: center;
+}
+.web-btn {
+	margin-bottom: 20px;
+}
+.swift-sec {
+	padding: 30px 0 22px 0;
+}
+.itm-swift li {
+	margin: 3px 22px;
+}
+.itm-swift {
+	margin-bottom: 17px;
+}
+.social {
+	margin-bottom: 25px;
+}
+.web-btn {
+	font-size: 16px;
+	width: 508px;
+}
+.table-pricing-sec {
+	padding: 39px 0 0 0;
+}
+.table-inner {
+	margin: 0 auto 20px;
+}
+.pricing {
+	font-size: 25px;
+}
+.hero-sec {
+	padding: 89px 0 78px 0;
+}
+.header-accordian a {
+	font-size: 12px;
+}
+.slide-head {
+	font-size: 20px;
+}
+.slide-pic {
+	max-width: 89%;
+}
+.hero-sec {
+	padding: 91px 0 14px 0;
+}
+.faq-pag .hero-sec {
+	padding: 100px 0 102px;
+}
+.privacy-page .hero-sec {
+	padding: 100px 0 102px;
+}
+.three-pic {
+	height: 220px;
+}
+}
+
+@media (max-width: 575px) {
+.heading {
+	font-size: 20px;
+}
+.hero-sec {
+	padding: 100px 0 104px 0;
+}
+.proxy-sec h4 {
+	font-size: 17px;
+}
+.proxy-sec p {
+	margin: 0 0 10px;
+}
+.proxy-sec {
+	padding: 0 0 0px 0;
+}
+.web-btn {
+	font-size: 13px;
+	width: 408px;
+}
+.header-accordian a {
+	font-size: 11px;
+}
+#carouselExampleControls {
+	height: 222px;
+}
+.carousel-control-prev {
+	left: -34px;
+	top: 88px;
+}
+.carousel-control-next {
+	top: 98px;
+	right: -34px;
+}
+.downlod {
+	margin-bottom: 20px;
+}
+.order-btn {
+	margin-top: 30px;
+	margin-bottom: 23px;
+}
+}
+
+@media (max-width: 479px) {
+.heading {
+	font-size: 16px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+	width: 14px;
+	height: 30px;
+}
+.commen-sec h2 {
+	font-size: 16px;
+	line-height: 28px;
+	margin-bottom: 29px;
+}
+.web-btn {
+	font-size: 13px;
+	width: 350px;
+}
+.swift-main li:before {
+	display: none;
+}
+.slide-head {
+	margin: 0 0 22px 0;
+}
+.hero-sec {
+	padding: 101px 0 20px 0;
+}
+.carousel-control-prev {
+	left: -29px;
+	top: 70px;
+}
+.carousel-control-next {
+	right: -29px;
+	top: 70px;
+}
+}
+
+@media (max-width: 379px) {
+.proxy-sec h4 {
+	font-size: 15px;
+	line-height: 23px;
+}
+.proxy-sec p {
+	margin: 0 0 14px;
+}
+.heading {
+	font-size: 15px;
+	margin-bottom: 22px;
+}
+.hero-sec .my-btn {
+	width: 168px;
+}
+.commen-sec h2 {
+	font-size: 15px;
+	line-height: 22px;
+	margin-bottom: 16px;
+}
+.support-sec .my-btn {
+	margin: 5px 0px;
+}
+.support-sec {
+	padding: 28px 0 26px 0px;
+}
+.swift-sec h5 {
+	font-size: 19px;
+	margin-bottom: 20px;
+}
+.itm-swift li:nth-child(3):before {
+	display: none;
+}
+.web-btn {
+	font-size: 13px;
+	width: 280px;
+}
+.table-pricing-sec a {
+	width: 224px;
+}
+.table-pricing-sec p {
+	font-size: 14px;
+}
+.order-btn {
+	font-size: 15px;
+}
+.faq-pag .header-accordian a {
+	padding: 0.75rem 0.45rem;
+}
+.pricing {
+	font-size: 16px;
+}
+}

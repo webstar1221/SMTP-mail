@@ -1,0 +1,107 @@
+body, table, tr, td {margin: 0px; font: 10pt Verdana, Arial, Helvetica, sans-serif; }
+img { border: 0 }
+#top-bar { background-color: #093D52; height: 1.3em; padding:0.3em; text-align: right; font: xx-small sans-serif; color: silver; }
+
+#logo-bar { background-color: #37586E; /*height: 4em*/ height: 80px;}
+#logo { float: left; margin-left: 1em; vertical-align: middle; height: 50px; margin-top: 15px;}
+
+#menu {
+	position: relative; 
+	text-indent: 1em;
+	background-color: #152024; 
+	color: white; height: 3em; 
+	font-family: "Myriad Pro", Verdana, Helvetica, sans-serif; 
+	line-height: 3em; 
+	text-transform: uppercase; 
+}
+#menu a { color: white; text-decoration: none; margin-right: 2em; }
+#menu a:hover { color: #F09726 }
+.line { height: 1px; overflow: hidden; }
+
+#columns { border: 0; margin: 0; padding: 0; }
+#sidebar { background-color: #EEE; width: 25%; padding: 1em; vertical-align: top; }
+#main { vertical-align: top; background: white; color: black; width: 80%; padding: 1em;}
+
+#sidebar ul { padding-left: 1em; margin: 0; list-style-type: none; }
+#sidebar ul li { margin-bottom: 0.3em; }
+
+.c_base { color: #37586E }
+.cb_base { background-color: #37586E }
+.c_secondary { color: #093D52 }
+.cb_secondary { background-color: #093D52 }
+.c_tertiary { color: #F09726 }
+.cb_tertiary { background-color: #F09726 }
+.remark { font-size: xx-small; color: gray;}
+
+#sidebar .infoblock { background-image: url("/img/column_bg_top.gif"); margin-bottom: 2em; border: 1px solid silver; padding: 1em; white-space: nowrap; }
+h2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 120%;}
+
+body.Popup                            { background-color: #FFFFFF;
+                                        background-image: url();
+                                        margin: 15px 15px 15px 15px; }
+
+/* ---------- General setup ---------- */
+span,font,td,th,p,a		      { font-family: Verdana, Arial, sans-serif; }
+a:link,a:active,a:visited             { color: #B35E00; text-decoration: underline; }
+a:hover 	      		      { color: #000000; text-decoration: underline; }
+a.Bright			      { color: #D6F1FF; text-decoration: underline; }
+a.Bright:hover			      { color: #FFFFFF; text-decoration: underline; }
+.Anchor                               { color: #1D425B; font-weight: bold; text-decoration: none;}
+.Alert				      { color: #CC3333; }
+hr				      { color: #AFBEC8; height: 2px; }
+.VertDivider			      { background: #AFBEC8; }
+.VertColumn			      { background-image: url("/img/column_bg_top.gif"); }
+
+
+/* ---------- Body Text ---------- */
+.Default                              { font-size: 12px; color: #000000; font-weight: normal; }
+.DefaultSmall			      { font-size: 11px; color: #000000; font-weight: normal; }
+.DefaultBright			      { font-size: 12px; color: #FFFFFF; font-weight: normal; }
+.DefaultBold                          { font-size: 12px; color: #1D425B; font-weight: bold; }
+.PageHeaderBright                     { font-size: 14px; color: #FFFFFF; font-weight: bold; }
+.PageTitle                            { font-size: 16px; color: #1D425B; font-weight: bold; }
+.PageTitleBright                      { font-size: 16px; color: #FFFFFF; font-weight: bold; }
+table.Body                            { width: 100%; }
+table.GrayedBox                       { background: #F8F8F8; border: 1px solid #AABBCC; }
+a.PressLink                           { font-size: 13px; color: #114576; font-weight: bold; }
+
+/* ---------- Menus ---------- */
+
+.MenuHeader			      { font-size: 12px; color: #000000; text-transform: uppercase; font-weight: bold; }
+.LeftBarText			      { font-size: 11px; color: #000000; font-weight: normal; }
+.MenuLink			      { font-size: 11px; color: #C96C04; font-weight: normal; text-decoration: underline; }
+
+/* ---------- Grids and Boxes ---------- */
+.GridOutline			      { background: #C3CFD6; }
+.BoxBackground			      { background: #E0E7EB; }
+
+/* ---------- Footer ---------- */
+.Footer	      			      { font-size: 12px; color: #1D425B; }
+.FooterGray	      		      { font-size: 12px; color: #CCDDEE; }
+a.Footer:link,a.Footer:visited	      { font-size: 12px; color: #1D425B; }
+a.Footer:active      		      { font-size: 12px; color: #000000; }
+a.Footer:hover      		      { font-size: 12px; color: #000000; }
+
+/* ---------- Forms ---------- */
+input.DefaultButton		      { background: #AFBEC8; height: 22px;
+					border-top: 1px solid #1D425B; border-left: 1px solid #1D425B;
+					border-bottom: 2px solid #1D425B; border-right: 2px solid #1D425B;
+					font-family: Verdana, sans-serif; font-size: 12px;
+					font-weight: bold; color: #000000; }
+input.DefaultTextbox                  { background: #FFFFFF;   
+                                        border-top: 2px solid #1D425B; border-left: 2px solid #1D425B;
+                                        border-bottom: 1px solid #1D425B; border-right: 1px solid #1D425B;
+                                        font-family: Verdana, sans-serif; font-size: 12px;
+                                        font-weight: normal; color: #000000; }
+select.DefaultSelectbox               { font-size: 13px; }
+textarea.DefaultTextarea              { font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 13px; }
+
+/* ---------- Widgets ---------- */
+.accountwidget { border: inset 1px black; background-color: #FFFFFF; margin: 5 0 5 0; }
+.tipwidget { background-color: #EEEEEE; padding: 5px 5px 5px 5px; }
+.sectheader { margin-bottom: 7px; border-bottom: 1px solid #1D425B; }
+.buttonbar { text-align: right; }
+.messagewidget { padding: 5px 5px 5px 5px; border: 1px inset black; margin: 0px 0px 10px 0px; text-align: center; }
+
+
+

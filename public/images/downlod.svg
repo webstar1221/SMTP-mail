@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.333 19.333">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_12" d="M0 0h19.333v19.333H0z" class="cls-1" data-name="Rectangle 12" transform="translate(927 2612)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_5" class="cls-2" data-name="Mask Group 5" transform="translate(-927 -2612)">
+        <g id="download-button" transform="translate(928.706 2612)">
+            <g id="file-download">
+                <path id="Path_544" d="M18.745 6.824H14.2V0H7.373v6.824H2.824l7.961 7.961zM2.824 17.059v2.275h15.921v-2.275z" class="cls-1" data-name="Path 544" transform="translate(-2.824)"/>
+            </g>
+        </g>
+    </g>
+</svg>

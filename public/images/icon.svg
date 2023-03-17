@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #207fe1;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-1" width="80" height="80" transform="translate(637 938)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" class="cls-2" transform="translate(-637 -938)">
+    <g id="_001-file" data-name="001-file" transform="translate(637 938)">
+      <path id="Path_674" data-name="Path 674" class="cls-3" d="M60,33.333H26.667a1.333,1.333,0,1,0,0,2.667H60a1.333,1.333,0,1,0,0-2.667Z"/>
+      <path id="Path_675" data-name="Path 675" class="cls-3" d="M26.667,25.333H40a1.333,1.333,0,1,0,0-2.667H26.667a1.333,1.333,0,1,0,0,2.667Z"/>
+      <path id="Path_676" data-name="Path 676" class="cls-3" d="M60,44H26.667a1.333,1.333,0,1,0,0,2.667H60A1.333,1.333,0,1,0,60,44Z"/>
+      <path id="Path_677" data-name="Path 677" class="cls-3" d="M60,54.667H26.667a1.333,1.333,0,1,0,0,2.667H60a1.333,1.333,0,1,0,0-2.667Z"/>
+      <path id="Path_678" data-name="Path 678" class="cls-3" d="M60,65.333H26.667a1.333,1.333,0,1,0,0,2.667H60a1.333,1.333,0,1,0,0-2.667Z"/>
+      <path id="Path_679" data-name="Path 679" class="cls-3" d="M65.333,19.448V0H8V73.333h6.667V80H72V26.115Zm-12-8.229,12,12,2.115,2.115H53.333ZM10.667,70.667v-68h52V16.781L52.552,6.667H14.667v64Zm6.667,6.667v-68H50.667V28H69.333V77.333Z"/>
+    </g>
+  </g>
+</svg>

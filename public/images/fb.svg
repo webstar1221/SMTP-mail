@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_3" data-name="Group 3" viewBox="0 0 20.483 39.445">
+    <defs>
+        <style>
+            .cls-1{fill:#197bb4}.cls-2{clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Clip_2" d="M0 39.445h20.483V0H0v39.445z" class="cls-1" data-name="Clip 2"/>
+        </clipPath>
+    </defs>
+    <g id="Group_3-2" class="cls-2" data-name="Group 3">
+        <path id="Fill_1" d="M19.335 21.453l.9-7.012H13.3V9.964c0-2.03.566-3.413 3.477-3.413h3.71V.277A49.5 49.5 0 0 0 15.073 0C9.719 0 6.056 3.269 6.056 9.27v5.171H0v7.012h6.056v17.993H13.3V21.453z" class="cls-1" data-name="Fill 1"/>
+    </g>
+</svg>

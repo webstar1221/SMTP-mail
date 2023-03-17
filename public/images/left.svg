@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.333 38.238">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="right-thin-chevron" class="cls-1" transform="translate(62.302 38.237) rotate(180)">
+    <g id="Group_208" data-name="Group 208" transform="translate(40.968 -0.001)">
+      <path id="Path_389" data-name="Path 389" class="cls-2" d="M43.184,38.237a2.215,2.215,0,0,1-1.567-3.78L56.957,19.119,41.617,3.779A2.214,2.214,0,0,1,44.749.648l16.9,16.9a2.212,2.212,0,0,1,0,3.131l-16.9,16.9A2.2,2.2,0,0,1,43.184,38.237Z" transform="translate(-40.968 0.001)"/>
+    </g>
+  </g>
+</svg>
